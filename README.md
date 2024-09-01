@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/SHIYADBAVA/foodapp.git
-   cd food-recipe-app
+   cd foodapp
 
 2. **Install dependencies:**
    ```bash
